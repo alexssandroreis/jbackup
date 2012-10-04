@@ -1,4 +1,4 @@
-jbackup
+jBackup
 =======
 
-Aplicação para backups de servidores usando java
+jBackup é uma ferramenta para backup's de servidores linux e windows usando o RSync
